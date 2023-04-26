@@ -1,0 +1,22 @@
+{
+    "name": "pacofer71/crud190423",
+    "description": "Ejemplo Repaso",
+    "type": "project",
+    "license": "gnu/gpl",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pacofer71",
+            "email": "usuario@email.es"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "fakerphp/faker": "^1.21",
+        "mmo/faker-images": "^0.8.0"
+    }
+}
